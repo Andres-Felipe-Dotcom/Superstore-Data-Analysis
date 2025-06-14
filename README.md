@@ -21,7 +21,7 @@ Which cities and product categories drive the most revenue?
 ## Tools Used
 **Power BI** (for visualization)
 **Microsoft Excel** (for cleaning)
-**Kaggle** (dataset source) - (https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
+**Kaggle** (dataset source) (https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 
 
 ## Key Insights
