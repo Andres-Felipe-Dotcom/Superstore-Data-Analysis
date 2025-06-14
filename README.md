@@ -1,6 +1,7 @@
 # Superstore-Data-Analysis
 This project analyses the Superstore dataset to uncover key business insights using tools such as Excel and Power BI. The main goal is to provide an overview of core metrics such as sales, profit, customer behaviour, shipping modes and product performance.
 
+Key questions adressed include:
 Total Sales and Profit.
 Which shipping mode is more profitable?
 What are the best-performing customer segments?
@@ -37,6 +38,11 @@ Which cities and product categories drive the most revenue?
 - **Best performing region** was the West region with a total sales of $725.458
 - **Least performing region** was the South region with a total sales of $391.722
 - The **Technology** Category brings in the highest sales and profit.
+
+
+## Dashboard Previews
+
+
 
 
 
