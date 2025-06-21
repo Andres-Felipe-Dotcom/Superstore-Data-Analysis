@@ -42,6 +42,9 @@ Which cities and product categories drive the most revenue?
 
 ## Dashboard Previews
 
+Here are some of the main visualizations from the Power BI dashboard:
+
+
 
 
 
