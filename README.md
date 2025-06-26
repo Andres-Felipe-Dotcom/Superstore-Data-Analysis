@@ -61,7 +61,7 @@ Here are some of the main visualizations from the Power BI dashboard:
 ![Cities Data] (<img width="913" alt="image" src="https://github.com/user-attachments/assets/858ec52e-557b-4623-8853-16123c038717" />)
 
 ### Categories
-
+ 
 ![Categories] (<img width="917" alt="image" src="https://github.com/user-attachments/assets/8c8874b7-02f1-4fd7-b531-901d12351655" />)
 
 
