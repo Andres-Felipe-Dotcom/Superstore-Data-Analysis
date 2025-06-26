@@ -46,7 +46,20 @@ Here are some of the main visualizations from the Power BI dashboard:
 
 ### General Data
 
-![General Data] (<img width="916" alt="image" src="https://github.com/user-attachments/assets/d824c9b8-b392-41d4-ae0c-9ec22abaf150" />)
+![General Data] <img width="916" alt="image" src="https://github.com/user-attachments/assets/d824c9b8-b392-41d4-ae0c-9ec22abaf150" />
+
+### Shipping Mode
+
+![Shippin Mode] <img width="920" alt="image" src="https://github.com/user-attachments/assets/9f89cb1a-1e16-4b13-9078-a5d931dbb9f9" />
+
+### Segment Data
+
+![Segments Data] <img width="916" alt="image" src="https://github.com/user-attachments/assets/dc94ebbf-dd94-4dfa-bfcc-b98d1215a2b5" />
+
+
+
+
+
 
 
 
