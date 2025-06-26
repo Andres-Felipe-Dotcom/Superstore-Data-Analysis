@@ -26,7 +26,7 @@ Which cities and product categories drive the most revenue?
 
 ## Key Insights
 
-- Total Orders: 5.009
+- Total Orders: 5,009
 - Total Sales: $230M
 - Total Profit: $286.40K
 - Profit Margin: 12.47%
