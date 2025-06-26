@@ -46,28 +46,23 @@ Here are some of the main visualizations from the Power BI dashboard:
 
 ### General Data
 
-
-<img width="916" alt="image" src="https://github.com/user-attachments/assets/d824c9b8-b392-41d4-ae0c-9ec22abaf150" />
+![General Data] (<img width="916" alt="image" src="https://github.com/user-attachments/assets/d824c9b8-b392-41d4-ae0c-9ec22abaf150" />)
 
 ### Shipping Mode
 
-
-<img width="920" alt="image" src="https://github.com/user-attachments/assets/9f89cb1a-1e16-4b13-9078-a5d931dbb9f9" />
+![Shipping Mode] (<img width="920" alt="image" src="https://github.com/user-attachments/assets/9f89cb1a-1e16-4b13-9078-a5d931dbb9f9" />)
 
 ### Segment Data
 
-
-<img width="916" alt="image" src="https://github.com/user-attachments/assets/dc94ebbf-dd94-4dfa-bfcc-b98d1215a2b5" />
+![Segment Data] (<img width="916" alt="image" src="https://github.com/user-attachments/assets/dc94ebbf-dd94-4dfa-bfcc-b98d1215a2b5" />)
 
 ### Cities Data
 
-
-<img width="913" alt="image" src="https://github.com/user-attachments/assets/858ec52e-557b-4623-8853-16123c038717" />
+![Cities Data] (<img width="913" alt="image" src="https://github.com/user-attachments/assets/858ec52e-557b-4623-8853-16123c038717" />)
 
 ### Categories
 
-
-<img width="917" alt="image" src="https://github.com/user-attachments/assets/8c8874b7-02f1-4fd7-b531-901d12351655" />
+![Categories] (<img width="917" alt="image" src="https://github.com/user-attachments/assets/8c8874b7-02f1-4fd7-b531-901d12351655" />)
 
 
 
