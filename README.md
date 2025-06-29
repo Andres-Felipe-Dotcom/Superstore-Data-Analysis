@@ -69,7 +69,9 @@ Here are some of the main visualizations from the Power BI dashboard:
 
 - Sales grew steadily from 2015 to 2017, indicating a strong trend. However, in 2017 there was a slight drop, suggesting potential market saturation or external challenges.
 - While Standard Class drives the most revenue and profit volume, First Class yields a higher profit margin, indicating more profitability per transaction.
-- While the Consumer segment contributes nearly the 50% of total sales, it foes not yield the highest profit margin. Insted, the Home Office segment, despite having the lowest sale share, generates the highest profit marging (14.03%)
+- While the Consumer segment contributes nearly the 50% of total sales, it foes not yield the highest profit margin. Insted, the Home Office segment, despite having the lowest sale share, generates the highest profit marging (14.03%).
+- The East and West regions consistently generate the highest sales and profits, indicating strong market presence and customer engagement in those areas.
+In contrast, the Central and South regions underperform, suggesting room for growth. A targeted pricing or promotional strategy could help improve profitability and sales in these lower-performing regions, potentially balancing regional contributions and boosting overall revenue.
   
 
 
