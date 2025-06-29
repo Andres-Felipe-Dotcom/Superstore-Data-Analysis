@@ -65,11 +65,12 @@ Here are some of the main visualizations from the Power BI dashboard:
 ![Categories] (<img width="917" alt="image" src="https://github.com/user-attachments/assets/8c8874b7-02f1-4fd7-b531-901d12351655" />)
 
 
+## Findings
 
-
-
-
-
+- Sales grew steadily from 2015 to 2017, indicating a strong trend. However, in 2017 there was a slight drop, suggesting potential market saturation or external challenges.
+- While Standard Class drives the most revenue and profit volume, First Class yields a higher profit margin, indicating more profitability per transaction.
+- While the Consumer segment contributes nearly the 50% of total sales, it foes not yield the highest profit margin. Insted, the Home Office segment, despite having the lowest sale share, generates the highest profit marging (14.03%)
+  
 
 
 
